@@ -79,13 +79,13 @@
 		"helmet": "^4.4.1",
 		"iconv-lite": "^0.6.2",
 		"module-alias": "^2.2.2",
-		"moment": "^2.29.1",
-		"node-fetch": "^2.6.1",
+		"moment": "^2.29.4",
+		"node-fetch": "^2.6.7",
 		"node-ical": "^0.12.9",
 		"rrule": "^2.6.8",
 		"rrule-alt": "^2.2.8",
-		"simple-git": "^2.37.0",
-		"socket.io": "^4.0.0"
+		"simple-git": "^3.5.0",
+		"socket.io": "^4.2.0"
 	},
 	"_moduleAliases": {
 		"node_helper": "js/node_helper.js",
